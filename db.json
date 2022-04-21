@@ -1,0 +1,224 @@
+{
+    "canBeRecycled": [
+        {
+            "id": 1,
+            "name": "aluminum cans",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soda_Cans_Pexels_Breakingpic_3008.jpg/640px-Soda_Cans_Pexels_Breakingpic_3008.jpg"
+        },
+        {
+            "id": 2,
+            "name": "aluminum can",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/12-ounce_Aluminum_Soda_Can_%2832569592188%29.jpg/640px-12-ounce_Aluminum_Soda_Can_%2832569592188%29.jpg"
+        },
+        {
+            "id": 3,
+            "name": "aluminum pie pans",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Apple_raspberry_pie.jpg/640px-Apple_raspberry_pie.jpg"
+        },
+        {
+            "id": 4,
+            "name": "aluminum pie pan",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Shoofly_pie.jpg/640px-Shoofly_pie.jpg"
+        },
+        {
+            "id": 5,
+            "name": "beverage cartons",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%A6%8F%E8%8F%AF%E8%B7%AF_Fuhua_Road_%E6%80%A1%E6%99%AF%E4%B8%AD%E5%BF%83%E5%9F%8E_Central_Walk_Shopping_Mall_Carrefour_Supermarket_goods_Oct_2017_IX1_Harvey_Fresh_milk.jpg/640px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%A6%8F%E8%8F%AF%E8%B7%AF_Fuhua_Road_%E6%80%A1%E6%99%AF%E4%B8%AD%E5%BF%83%E5%9F%8E_Central_Walk_Shopping_Mall_Carrefour_Supermarket_goods_Oct_2017_IX1_Harvey_Fresh_milk.jpg"
+        },
+        {
+            "id": 6,
+            "name": "beverage cartons",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ErlebnisSennerei_Zillertal_Bergmilch.jpg/640px-ErlebnisSennerei_Zillertal_Bergmilch.jpg"
+        },
+        {
+            "id": 7,
+            "name": "brown paper bags",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bolsas_de_caf%C3%A9_org%C3%A1nico_de_la_Fonda_Garufa.jpg/640px-Bolsas_de_caf%C3%A9_org%C3%A1nico_de_la_Fonda_Garufa.jpg"
+        },
+        {
+            "id": 7,
+            "name": "brown paper bag",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Brown_bag.jpg/640px-Brown_bag.jpg"
+        },
+        {
+            "id": 8,
+            "name": "cardboard",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cardboard_waste_collection_at_Piattaforma_Ecologica_-_Legnano_%28MI%29%2C_Lombardy%2C_Italy_-_2021-02-26.jpg/640px-Cardboard_waste_collection_at_Piattaforma_Ecologica_-_Legnano_%28MI%29%2C_Lombardy%2C_Italy_-_2021-02-26.jpg"
+        },
+        {
+            "id": 8,
+            "name": "card board",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cardboard_waste_collection_at_Piattaforma_Ecologica_-_Legnano_%28MI%29%2C_Lombardy%2C_Italy_-_2021-02-26.jpg/640px-Cardboard_waste_collection_at_Piattaforma_Ecologica_-_Legnano_%28MI%29%2C_Lombardy%2C_Italy_-_2021-02-26.jpg"
+        },
+        {
+            "id": 8,
+            "name": "coffee cans",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coffee_Cans.jpg/640px-Coffee_Cans.jpg"
+        },
+        {
+            "id": 9,
+            "name": "coffee can",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Can_vacuum_packed_coffee.JPG/640px-Can_vacuum_packed_coffee.JPG"
+        },
+        {
+            "id": 10,
+            "name": "drink cartons",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Multiple_dairy_cartons_%28226051%29.jpg/640px-Multiple_dairy_cartons_%28226051%29.jpg"
+        },
+        {
+            "id": 11,
+            "name": "drink carton",
+            "img": " https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Beep_drink_carton_2012.jpg/640px-Beep_drink_carton_2012.jpg"
+        },
+        {
+            "id": 12,
+            "name": "food carton",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lunch_box_and_microwave_oven.jpg/640px-Lunch_box_and_microwave_oven.jpg"
+        },
+        {
+            "id": 13,
+            "name": "food cartons",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rectangular_plastic_food_containers.JPG/640px-Rectangular_plastic_food_containers.JPG"
+        },
+        {
+            "id": 14,
+            "name": "glass bottles",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Beer_bottles_2018_G1.jpg/640px-Beer_bottles_2018_G1.jpg"
+        },
+        {
+            "id": 15,
+            "name": "glass bottle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_glass_bottle_with_RFID_chip_Lagavulin_distillery-3192.jpg/640px-Green_glass_bottle_with_RFID_chip_Lagavulin_distillery-3192.jpg"
+        },
+        {
+            "id": 16,
+            "name": "jars",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Screw_Top_Jars.JPG/640px-Screw_Top_Jars.JPG"
+        },
+        {
+            "id": 17,
+            "name": "jar",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mason_jar_02.JPG/640px-Mason_jar_02.JPG"
+        },
+        {
+            "id": 18,
+            "name": "junk mail",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pile_of_junk_mail.jpg/640px-Pile_of_junk_mail.jpg"
+        },
+        {
+            "id": 19,
+            "name": "junk mail",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pile_of_junk_mail.jpg/640px-Pile_of_junk_mail.jpg"
+        },
+        {
+            "id": 20,
+            "name": "liquor bottles",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Liquor_bottles_array.jpg/640px-Liquor_bottles_array.jpg"
+        },
+        {
+            "id": 21,
+            "name": "liquor bottle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Empty_Liquor_Bottle_-_NARA_-_5146571_%28page_2%29.jpg/640px-Empty_Liquor_Bottle_-_NARA_-_5146571_%28page_2%29.jpg"
+        },
+        {
+            "id": 22,
+            "name": "magazines",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cycling_magazines_-_bike_magazines.jpg/640px-Cycling_magazines_-_bike_magazines.jpg"
+        },
+        {
+            "id": 23,
+            "name": "magazine",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Violin_Magazine_cover.png/640px-Violin_Magazine_cover.png"
+        },
+        {
+            "id": 24,
+            "name": "newspapers",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dutch_newspapers.jpg/640px-Dutch_newspapers.jpg"
+        },
+        {
+            "id": 25,
+            "name": "newspaper",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Land_on_the_Moon_7_21_1969-repair.jpg/640px-Land_on_the_Moon_7_21_1969-repair.jpg"
+        },
+        {
+            "id": 26,
+            "name": "papers",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/15_reams_of_paper_stacked_on_the_floor.jpg/640px-15_reams_of_paper_stacked_on_the_floor.jpg"
+        },
+        {
+            "id": 27,
+            "name": "paper",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/White_paper_airplane.jpg/640px-White_paper_airplane.jpg"
+        },
+        {
+            "id": 28,
+            "name": "phone books",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MichYellowBooks.JPG/640px-MichYellowBooks.JPG"
+        },
+        {
+            "id": 29,
+            "name": "phone book",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Telefonbog_ubt-1.JPG/640px-Telefonbog_ubt-1.JPG"
+        },
+        {
+            "id": 30,
+            "name": "plastic bottles",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Recyclables.JPG/640px-Recyclables.JPG"
+        },
+        {
+            "id": 31,
+            "name": "plastic bottle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Plastic_bottle_at_1000_feet%2C_sealed_at_14000_feet.png/640px-Plastic_bottle_at_1000_feet%2C_sealed_at_14000_feet.png"
+        },
+        {
+            "id": 32,
+            "name": "plastic containers",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tupperware_plastic_containers.jpeg/640px-Tupperware_plastic_containers.jpeg"
+        },
+        {
+            "id": 33,
+            "name": "plastic container",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_plastic_washtub.jpg/640px-White_plastic_washtub.jpg"
+        },
+        {
+            "id": 34,
+            "name": "plastic window envelopes",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stack_of_Envelopes_by_Martin_Vorel.jpeg/640px-Stack_of_Envelopes_by_Martin_Vorel.jpeg"
+        },
+        {
+            "id": 35,
+            "name": "plastic window envelope",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DIN_lang_-_Letter_Window.JPG/640px-DIN_lang_-_Letter_Window.JPG"
+        },
+        {
+            "id": 36,
+            "name": "shampoo bottles",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gee_Your_Hair_Smells_Terrific.jpg/640px-Gee_Your_Hair_Smells_Terrific.jpg"
+        },
+        {
+            "id": 37,
+            "name": "shampoo bottle",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/A_bottle_of_Aveeno_Baby_Wash_%26_Shampoo_01.jpg/640px-A_bottle_of_Aveeno_Baby_Wash_%26_Shampoo_01.jpg"
+        },
+        {
+            "id": 38,
+            "name": "steel cans",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BASIC_BUILDING_BLOCK_OF_EXPERIMENTAL_HOUSING_BEING_BUILT_OF_EMPTY_STEEL_BEER_AND_SOFT_DRINK_CANS_NEAR_TAOS%2C_NEW_MEXICO_-_NARA_-_556616.jpg/640px-BASIC_BUILDING_BLOCK_OF_EXPERIMENTAL_HOUSING_BEING_BUILT_OF_EMPTY_STEEL_BEER_AND_SOFT_DRINK_CANS_NEAR_TAOS%2C_NEW_MEXICO_-_NARA_-_556616.jpg"
+        },
+        {
+            "id": 39,
+            "name": "steel can",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tin%2C_food_product_%28AM_2015.4.3-7%29.jpg/640px-Tin%2C_food_product_%28AM_2015.4.3-7%29.jpg"
+        },
+        {
+            "id": 40,
+            "name": "yogurt containers",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ScarletSageYogurtPots.JPG/640px-ScarletSageYogurtPots.JPG"
+        },
+        {
+            "id": 40,
+            "name": "yogurt container",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fage_pronounced_Fa-yeh.jpg/640px-Fage_pronounced_Fa-yeh.jpg"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+/* Text Color */
+.text-primary {
+  color: #2867c3;
+}
+
+/* Button */
+.post-btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  color: #fff;
+  background: #2867c3;
+  border: none;
+  border-radius: 5px;
+}
+
+.post-btn:hover {
+  opacity: 0.8;
+}
+
+/* Backgrounds */
+
+.bg-primary {
+  background: #00ab66;
+  color: #fff;
+  padding-top: 1rem;
+}
+
+.bg-dark {
+  background: #333;
+  height: 30vh;
+}
+
+/* Flex Items */
+
+.flex-items {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  padding-bottom: 1rem;
+}
+
+/* Flex Columns */
+
+.flex-columns .row {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex-columns .column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  text-align: center;
+  
+}
+
+.flex-columns .column .column-1 {
+  height: 100%;
+}
+
+.flex-columns img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.flex-columns h2 {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.flex-columns h3 {
+  font-size: 25px;
+  padding-top: 1rem;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.flex-columns p {
+  margin: 1rem;
+}

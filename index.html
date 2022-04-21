@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script defer src="index.js"></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/utilities.css" />
+    <link rel="stylesheet" href="css/mobile.css" />
+    <title>Should I Recycle This?</title>
+</head>
+<body>
+   
+    <section class="solutions flex-columns">
+        <div class="row">
+            <div class="column">
+                <div class="column-1">
+                    <img src="https://images.unsplash.com/photo-1604187351574-c75ca79f5807?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                        alt="">
+                </div>
+            </div>
+            <div class="column">
+                <div class="column-1 bg-primary">
+                    <div>
+                        <h2>Should I Recycle This?</h2>
+                    </div>
+                    <div>
+                        <div class="text-primary">
+                            <h3>Learn how to recycle without <u><i>wasting</i></u> time!</h3>
+                        </div>
+                        <p>There are many items you <strong>CAN</strong> recycle
+                            <br>but there are even more that you <strong>CAN'T!</strong> <br> <br> Type the name of an
+                            item in the search box below to find out...
+                        </p>
+                        </a>
+                        <div>
+                            <div>
+                                <div class="text-primary">
+                                    <h2> <i class="fa-solid fa-recycle"></i> Search</h2>
+                                </div>
+                                <form onsubmit="submitForm(event)" method="GET" class="item-form">
+                                    <div class="search-form">
+                                        <label for="item"></label>
+                                        <input id="text" type="text" name="item" placeholder="Enter Item"> <br>
+                                        <input type="submit" value="GO"
+                                          id="submit" class="post-btn">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </section>
+</body>
+<footer class="footer bg-dark">
+    <div id="results">
+       
+    </div>
+    <div id="results2">
+        
+    </div>
+    <div id="results3">
+        
+    </div>
+    </div>
+</footer>
+<div class="flex-items bg-primary">
+    <p>Will you promise to recycle smarter?</p> &nbsp &nbsp <br>
+    <i onclick="toggleLike()" id="likes" class="fa-regular fa-circle-check fa-3x"></i>
+</div>
+</html>
+
+<!-- When you place your cart out on the curb, make sure the arrow on the cart is facing towards the street. Also place it at least 3 feet away from parked cars, utility poles, mailboxes, fire hydrants, shrubs or low-hanging trees, and other carts. This will ensure that the recycling trucks can easily access it. -->
+
+<!-- Reduce and Repurpose
+If you really want to make a difference, adopt the mindset that putting items into both the trash and recycling should be a last resort. Instead, look for ways to reduce the amount of waste you create. Simple changes, like using reusable grocery bags and water bottles, can make a big difference.
+
+Whenever you can, repurpose or donate unwanted items. There are many local thrift stores that will happily accept your gently used clothing, shoes, accessories, toys, decor, furniture, and more. (Check out this handy list of 5 Bradenton Locations to Donate Your Gently Used Items.)
+
+You can also bring your clean clothes, shoes, linens, and accessories to the Lena Road Landfill for recycling Monday through Saturday from 8 am until 5 pm. -->
+
+<!-- Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file. -->
+
+<!-- source - https://discoverbradenton.com/bradenton-recycling-dos-and-donts/ -->
+
+<!-- Need more information about trash pick-up and recycling? Visit the City of Bradenton website or call 941-708-6340. Manatee County Utilities customers can visit their website or call 941-708-6340. -->
+
+
+

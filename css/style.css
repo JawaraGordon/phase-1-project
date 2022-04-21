@@ -1,0 +1,89 @@
+/* The CSS can be minimal for this project; you just need to create a CSS file with at least one or two definitions, and hook it up. */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+/* Body */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  /* overflow: hidden; */
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+h3 {
+  padding: 1rem;
+}
+
+p {
+  margin: 0;
+  font-size: 23px;
+  line-height: 1.4;
+}
+
+.search-form {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+#text {
+  width: 50%;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.post-btn {
+  padding: 12px 0;
+  margin-top: 20px;
+  width: 30%;
+  height: 30%;
+  font-size: 20px;
+}
+
+.like-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+/*Footer*/
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+  overflow: hidden;
+}
+
+#results2 {
+  position: fixed;
+  z-index: -1;
+  padding: 0;
+  margin: 0;
+}
+
+#results3 {
+  position: fixed;
+  z-index: 1;
+}

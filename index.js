@@ -26,15 +26,11 @@ function stopResults() {
 }
 function confettiFunc() {
   let confetti = document.createElement('img');
-  // put the image in the correct div
+
   confetti.setAttribute('src', './img/confetti.gif');
   confetti.setAttribute('height', '100%');
   confetti.setAttribute('width', '100%');
   confetti = document.getElementById('results3').parentNode.append(confetti);
-  // setTimeout(function () {
-  //   window.location.reload();
-  // }, 3000);
-  // console.log(stopLoader());
 }
 function noConfettiFunc() {
   confetti = document.getElementById('results3');
@@ -42,7 +38,6 @@ function noConfettiFunc() {
   setTimeout(function () {
     window.location.reload();
   }, 1);
-  // console.log(stopLoader());
 }
 function toggleLike() {
   if ((likeBoxVar = likeBox.classList.contains('fa-regular'))) {
@@ -72,10 +67,6 @@ function getRecyclableData() {
       const whiteListValue = whiteList.find((el) =>
         el.name.includes(textValue.toLowerCase())
       );
-
-      console.log('textValue:', textValue);
-      console.log('is my text value in the whiteList:', whiteListValue);
-      console.log(!!whiteListValue);
       if (!!whiteListValue) {
         setTimeout(function () {
           stopLoader();

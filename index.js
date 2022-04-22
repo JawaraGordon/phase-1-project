@@ -77,8 +77,6 @@ function getRecyclableData() {
       console.log('is my text value in the whiteList:', whiteListValue);
       console.log(!!whiteListValue);
       if (!!whiteListValue) {
-        console.log(whiteList);
-
         setTimeout(function () {
           stopLoader();
         }, 2000);
@@ -130,7 +128,6 @@ function getRecyclableData() {
         setTimeout(function () {
           window.location.reload();
         }, 6000);
-        console.log(whiteListValue);
       }
     });
 }
@@ -142,5 +139,4 @@ function submitForm(e) {
 
   document.querySelector('#submit').disabled = true;
   textValue = document.getElementById('text').value;
-  console.log(getRecyclableData);
 }
